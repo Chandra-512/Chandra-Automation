@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55618" started-at="2018-04-14T10:26:13Z" finished-at="2018-04-14T10:27:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55618" started-at="2018-04-14T10:26:13Z" finished-at="2018-04-14T10:27:09Z">
+      <class name="com.crm.testcases.Verify_Login_Logout">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.testcases.Verify_Login_Logout@720b71]" name="setUp" is-config="true" duration-ms="11887" started-at="2018-04-14T10:26:14Z" finished-at="2018-04-14T10:26:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitle()[pri:1, instance:com.crm.testcases.Verify_Login_Logout@720b71]" name="loginPageTitle" duration-ms="152" started-at="2018-04-14T10:26:25Z" finished-at="2018-04-14T10:26:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.testcases.Verify_Login_Logout@720b71]" name="tearDown" is-config="true" duration-ms="4195" started-at="2018-04-14T10:26:26Z" finished-at="2018-04-14T10:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.testcases.Verify_Login_Logout@720b71]" name="setUp" is-config="true" duration-ms="10747" started-at="2018-04-14T10:26:30Z" finished-at="2018-04-14T10:26:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="crmImageLogo()[pri:2, instance:com.crm.testcases.Verify_Login_Logout@720b71]" name="crmImageLogo" duration-ms="467" started-at="2018-04-14T10:26:41Z" finished-at="2018-04-14T10:26:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crmImageLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.testcases.Verify_Login_Logout@720b71]" name="tearDown" is-config="true" duration-ms="5617" started-at="2018-04-14T10:26:41Z" finished-at="2018-04-14T10:26:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.testcases.Verify_Login_Logout@720b71]" name="setUp" is-config="true" duration-ms="11028" started-at="2018-04-14T10:26:47Z" finished-at="2018-04-14T10:26:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:3, instance:com.crm.testcases.Verify_Login_Logout@720b71]" name="login" duration-ms="7520" started-at="2018-04-14T10:26:58Z" finished-at="2018-04-14T10:27:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.testcases.Verify_Login_Logout@720b71]" name="tearDown" is-config="true" duration-ms="3927" started-at="2018-04-14T10:27:05Z" finished-at="2018-04-14T10:27:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.testcases.Verify_Login_Logout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
